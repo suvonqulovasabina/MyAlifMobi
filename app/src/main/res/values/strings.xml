@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">MyAlifMobi</string>
+    <string name="Sign_In">Sign In</string>
+    <string name="help">help</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="i_have_read_and_accept_the_terms_of_the_public_offer_and_the_privacy_policy">I have read and accept the terms of th public offer and the privacy policy</string>
+    <string name="enter_code_from_sms">Enter code from SMS</string>
+    <string name="SMS_verification_code_has_been_sent">SMS Verification code has been sent</string>
+    <string name="number">+998944705888</string>
+    <string name="change_number">Change Number</string>
+    <string name="second">New verification code can sent in 48 second</string>
+    <string name="enter_passcode">Enter passcode</string>
+    <string name="forgot">Forgot</string>
+    <string name="forgot_passcode">Forgot passcode?</string>
+    <string name="main">Main</string>
+    <string name="pay">Pay</string>
+    <string name="transfers">Transfers</string>
+    <string name="nasiya">Nasiya</string>
+    <string name="history">History</string>
+    <string name="digit_code_for_logging_in_to_alif_mobi">4- digit code for logging in to alif mobi</string>
+    <string name="mehmon">Mehmon</string>
+    <string name="add_card">Add card</string>
+    <string name="qr_scanner">QR screen</string>
+    <string name="transfer">Transfer</string>
+    <string name="cards">Cards</string>
+    <string name="add">Add</string>
+    <string name="nasiya_bor">Nasiya bor!</string>
+    <string name="alif_nasiya">Alif Nasiya</string>
+    <string name="o_uzs">O UZS</string>
+    <string name="cashback_card">Cashback card</string>
+    <string name="wallet">Wallet</string>
+    <string name="all_cards">All cards</string>
+    <string name="services">Services</string>
+    <string name="saved_payments">Saved payments</string>
+    <string name="signUp">signUp</string>
+
+
+<!--    val firstName by remember { mutableStateOf("") }-->
+<!--    val lastname by remember { mutableStateOf("") }-->
+<!--    val phone by remember { mutableStateOf("") }-->
+<!--    val bornDate by remember { mutableStateOf("") }-->
+<!--    val password by remember { mutableStateOf("") }-->
+<!--    val gender by remember { mutableStateOf("") }-->
+
+
+    <string name="all">All</string>
+    <string name="create_new">Create New</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">first name</string>
+    <string name="last">last name</string>
+    <string name="phone">phone</string>
+    <string name="password">password</string>
+    <string name="born_data">born data</string>
+    <string name="gender">gender</string>
+    <string name="my_home">My home</string>
+    <string name="add_home">Add home</string>
+    <string name="money_transfers">Money Transfers</string>
+    <string name="electricity">Electricity,gas,water and everything else in one place</string>
+    <string name="Service_name">Service Payment</string>
+    <string name="Suggest_a_payment">Suggest a payment</string>
+    <string name="lets_do_it">Let s do it</string>
+    <string name="Saved_payments">Saved payments</string>
+    <string name="Service_payments">Service payments</string>
+    <string name="alif">alif</string>
+    <string name="call">Call</string>
+    <string name="online_chat">Online chat</string>
+    <string name="telegram">Telegram</string>
+    <string name="all_stores">All Stores</string>
+    <string name="store">Store</string>
+    <string name="what_you_can_buy_from_us_in_installments">What you can buy from us in installments</string>
+    <string name="buy_in_installments_throughout_uzbekiston">Buy in installments throughout Uzbekiston</string>
+    <string name="Create_template">Saved payments</string>
+    <string name="Save_frequent_payments_in_your_favorites">Save frequent payments in your favorites</string>
+    <string name="could_not_find_what_you_searched_for_Suggest">Could not find what you searched for? Suggest us.Well try to sdd it</string>
+    <string name="what_is_the_limit">What is the limit</string>
+    <string name="where_yo_buy">Where yo buy</string>
+    <string name="if_you_have_difficuties_with_using_the_application_please_concat_us">if you have difficuties with using the application please concat us</string>
+    <string name="how_can_i_pay_off_the_installment">How can I pay off the installment</string>
+    <string name="you_can_make_purchase_online_straight_on_the_website_alifshop.uz_or_in_the_stores_of_our_partners_such_as_idea_mediapaek_texnomard_goodzone_etc">
+        you_can_make_purchase_online_straight_on_the_website_alifshop.uz_or_in_the_stores_of_our_partners_such_as_idea_mediapaek_texnomard_goodzone_etc
+    </string>
+
+    <string name="the_limit_your_installment_purchase_balance_with_which_you_can_make_purchases_on_the_alifshop.uz_website_or_from_our_partner_stores_withour_watiting_and_additional_verificatoon">
+        The limit your installment purchase balance with which you can make purchases on the alifshop.uz website or from our partner stores withour watiting and additional verificatoon
+    </string>
+</resources>
